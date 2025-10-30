@@ -10,6 +10,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: GoogleMapWidget());
+    return MaterialApp(
+      home: GoogleMapWidget(),
+      debugShowCheckedModeBanner: false,
+    );
   }
 }
