@@ -98,6 +98,12 @@
       "languageVersion": "3.9"
     },
     {
+      "name": "flutter_polyline_points",
+      "rootUri": "file:///Users/gh0zi0/.pub-cache/hosted/pub.dev/flutter_polyline_points-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/gh0zi0/FlutterDev/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -114,6 +120,30 @@
       "rootUri": "file:///Users/gh0zi0/.pub-cache/hosted/pub.dev/geoclue-0.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.16"
+    },
+    {
+      "name": "geocoding",
+      "rootUri": "file:///Users/gh0zi0/.pub-cache/hosted/pub.dev/geocoding-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "geocoding_android",
+      "rootUri": "file:///Users/gh0zi0/.pub-cache/hosted/pub.dev/geocoding_android-4.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "geocoding_ios",
+      "rootUri": "file:///Users/gh0zi0/.pub-cache/hosted/pub.dev/geocoding_ios-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "geocoding_platform_interface",
+      "rootUri": "file:///Users/gh0zi0/.pub-cache/hosted/pub.dev/geocoding_platform_interface-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "geolocator",
